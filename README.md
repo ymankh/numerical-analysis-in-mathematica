@@ -1,3 +1,3 @@
 # numerical-analysis-in-mathematica
-some of the codes that I made throughout my numerical analysis in course in mathematica
-if you faced any trubels understanding the code, contact me on my email qqssww18@gmail.com
+some of the codes that I made throughout my numerical analysis course in mathematica
+If you face any trouble understanding the code, contact me at my email: ymankh1997@gmail.com
